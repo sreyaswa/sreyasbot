@@ -1,10 +1,7 @@
 {
-    "name": "sreyaswa",
-    "description": " Whatsapp bot.",
-    "keywords": [
-        "whatsapp",
-        "bot"
-    ],
+    "name": "ꪶɪᴛs-ᴍᴇ ͢⁨ғᴀᴋᴇ sʀᴇʏᴀsꫂ»",
+    "description": "DEVELOPED BY FAKE SREYAS OFC",
+    "logo": "https://i.imgur.com/YSlMVkV.jpeg/u/83832372?v=4",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
