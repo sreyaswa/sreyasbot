@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "sreyaswa",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -18,7 +18,7 @@
         "HANDLERS": {
             "description": "enter prefix.",
             "required": true,
-            "value": "^[.]"
+            "value": "^[,.]"
         },
         "SEND_READ": {
             "description": "send read receipt.",
@@ -79,7 +79,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "ꪶɪᴛs-ᴍᴇ ͢⁨ғᴀᴋᴇ sʀᴇʏᴀsꫂ»"
         }
     },
     "addons": [
