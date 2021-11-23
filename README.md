@@ -19,7 +19,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 <!--
 [![Run on Repl.it](https://replit.com/badge/github/sreyaswa/sreyasbot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sreyaswa/sreyasbot) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]><img src="https://i.imgur.com/oOPdAJy.jpeg/(https://heroku.com/deploy?template=https://github.com/sreyaswa/sreyasbot) -->
 
 | Active | Group commands |
 | :----: | :------------- |
