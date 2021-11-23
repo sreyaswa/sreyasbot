@@ -4,7 +4,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 
 ## What is WhatsAsena?
 
-**WhatsAsena,** is a WhatsApp  written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 
@@ -13,8 +13,11 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/sreyaswa/sreyasbot) and Follow.
    <br>
+   <a href="https://youtube.com/channel/UCb0aDxOZ3K4wc8CtEUr3PNA"><img src="https://i.imgur.com/oOPdAJy.jpeg/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+   <br>
+   <a href="http://Wa.me/+994407146026"><img alt="Sreyasbot" src="https://i.imgur.com/oOPdAJy.jpeg/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<a href="https://github.com/sreyaswa/sreyasbot/wiki/"><img src="https://i.imgur.com/oOPdAJy.jpeg/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
+<a href="https://github.com/sreyaswa/sreyasbot/wiki/"><img src="https://i.imgur.com/oOPdAJy.jpeg/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
 <!--
 [![Run on Repl.it](https://replit.com/badge/github/sreyaswa/sreyasbot)](https://replit.com/@Nightbot2O/baileys-qr)
@@ -100,3 +103,5 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 |   ✔️   | Histo/vector/aves | Audio to video               |
 |   ✔️   | Block/unblock     | Blocks/unblocks members      |
 |   ✔️   | Broadcast         | Custom Broadcasting Messages |
+
+credits = fake sreyas ofc
