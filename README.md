@@ -8,13 +8,8 @@
 
 CREATED BY FAKE SREYAS OFC
 
-This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
 
-## What is WhatsAsena?
-
-**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
-
-## Setup
+#HOW TO DEPLOY BOT#
 
 1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
