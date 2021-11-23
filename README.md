@@ -22,7 +22,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/sreyaswa/sreyasbot) and Follow.
    <br>
    
-<a href="https://github.com/sreyaswa/sreyasbot/wiki/"><img src="https://i.imgur.com/oOPdAJy.jpeg/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
+<a href="https://github.com/sreyaswa/sreyasbot/wiki/"><img src="https://i.imgur.com/YSlMVkV.jpeg/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 FAKE SREYAS
 CLICK THE IMAGE TO DIRECTLY GO TO WIKI 
 <!--
