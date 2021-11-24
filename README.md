@@ -7,7 +7,7 @@
 <img src=https://i.imgur.com/WtbDWXB.jpeg>
 </p>
   <p align="center">
-<a href="https://github.com/sreyaswa"><img title="Author" src="https://img.shields.io/badge/Author-Amal-sreyaswa/sreyasbot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/sreyaswa"><img title="Author" src="https://i.imgur.com/WtbDWXB.jpeg/badge/Author-sreyaswa/sreyasbot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
