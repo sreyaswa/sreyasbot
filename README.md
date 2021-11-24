@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/zdcqaaG.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/WtbDWXB.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="sreyasbot" src="/badge/sreyaswa-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
