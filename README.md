@@ -1,23 +1,22 @@
-<div align="center">
 
- </a>
-</p>
 <div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/zdcqaaG.jpeg" width="200" height="200"/>
   <p align="center">
-<img src=https://i.imgur.com/WtbDWXB.jpeg>
+<a href="#"><img title="sreyasbot" src="/badge/sreyaswa-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/sreyaswa"><img title="Author" src="https://i.imgur.com/WtbDWXB.jpeg/badge/Author-sreyaswa/sreyasbot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="wa.me/+994407146026"><img title="join support" src="https://https://i.imgur.com/WtbDWXB.jpeg/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/sreyaswa">sreyasbot</a> to make it public
+Project created by <a href="https://github.com/sreyaswa">sreyaswa</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
+----
 
 CREATED BY FAKE SREYAS OFC
 
