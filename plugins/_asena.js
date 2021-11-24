@@ -11,7 +11,7 @@ const Config = require("../config");
 const { lydia, getLydia, setLydia } = require("../Utilis/lydia");
 const { getName, readmore } = require("../Utilis/download");
 const Language = require("../language");
-const { textToStylist, addSpace } = require("../Utilis/Misc");
+const {addSpace } = require("../Utilis/Misc");
 const Lang = Language.getString("_asena");
 Asena.addCommand(
   { pattern: "list ?(.*)", fromMe: true, dontAddCommandList: true },
@@ -50,7 +50,7 @@ Asena.addCommand(
   { pattern: "help ?(.*)", fromMe: true, dontAddCommandList: true },
   async (message, match) => {
     let CMD_HELP = `╭────────────────╮
-    ᴡʜᴀᴛsᴀᴘᴘ-ʙᴏᴛ
+  ꪶɪᴛs-ᴍᴇ ͢⁨ғᴀᴋᴇ sʀᴇʏᴀsꫂ»
 ╰────────────────╯
 
 ╭────────────────
