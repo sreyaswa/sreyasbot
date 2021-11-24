@@ -11,7 +11,7 @@ const Config = require("../config")
 const { lydia, getLydia, setLydia } = require("../Utilis/lydia")
 const { getName, readmore } = require("../Utilis/download")
 const Language = require("../language")
-const {addSpace } = require("../Utilis/Misc")
+const { textToStylist, addSpace } = require("../Utilis/Misc")
 const Lang = Language.getString("_asena")
 Asena.addCommand(
   { pattern: "list ?(.*)", fromMe: true, dontAddCommandList: true },
@@ -51,7 +51,7 @@ Asena.addCommand(
   { pattern: "help ?(.*)", fromMe: true, dontAddCommandList: true },
   async (message, match) => {
     let CMD_HELP = `╭────────────────╮
-   *_ғᴀᴋᴇ_sʀᴇʏᴀs_*
+    _ғᴀᴋᴇ_sʀᴇʏᴀs_
 ╰────────────────╯
 
 ╭────────────────
@@ -67,7 +67,7 @@ Asena.addCommand(
         )
       }
     })
-    let font = ["wideText"][
+    let font = ["mono", "doubleStruck", "wideText"][
       Math.floor(Math.random() * 3)
     ]
     commands.forEach((command, i) => {
