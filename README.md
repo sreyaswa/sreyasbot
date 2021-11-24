@@ -1,25 +1,24 @@
 
+
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/WtbDWXB.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/WtbDWXB.jpeg." width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="sreyasbot" src="/badge/sreyaswa-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="sreyasbot" src="https://img.shields.io/badge/SREYASBOT-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="wa.me/+994407146026"><img title="join support" src="https://https://i.imgur.com/WtbDWXB.jpeg/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SREYASBOT"><img title="Author" src="https://img.shields.io/badge/Author-SREYASBOT/sreyasbot?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/sreyaswa">sreyaswa</a> to make it public
+Project created by <a href="https://github.com/SREYASBOT">SREYASBOT</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-----
 
 CREATED BY FAKE SREYAS OFC
-
 
 #HOW TO DEPLOY BOT#
 
