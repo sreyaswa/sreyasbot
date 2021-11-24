@@ -73,7 +73,6 @@ Asena.addCommand(
       CMD_HELP += `│ ${i + 1} ${addSpace(
         i + 1,
         commands.length
-      )}${textToStylist(command.toUpperCase(), font)}\n`;
     });
     CMD_HELP += `╰────────────────`;
     return await message.sendMessage("```" + CMD_HELP + "```");
