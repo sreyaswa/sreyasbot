@@ -1,14 +1,12 @@
 {
-    "name": "fake sreyas",
-    "description": "WHATSAP BOT CODED BY FAKE SREYAS OFC.",
-    "logo": "https://i.imgur.com/9MzdBSL.jpeg",
+    "name": "Bottus",
+    "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
         "bot"
     ],
     "stack": "container",
     "env": {
-
         "ASENA_SESSION": {
             "description": "Enter whatsapp web session.",
             "required": true
@@ -20,7 +18,7 @@
         "HANDLERS": {
             "description": "enter prefix.",
             "required": true,
-            "value": "^[,.]"
+            "value": "^[.]"
         },
         "SEND_READ": {
             "description": "send read receipt.",
@@ -81,7 +79,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "ꪶɪᴛs-ᴍᴇ ͢⁨ғᴀᴋᴇ sʀᴇʏᴀsꫂ»"
+            "value": "🥰,lyfe00011"
         }
     },
     "addons": [
