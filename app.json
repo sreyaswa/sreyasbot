@@ -19,7 +19,7 @@
         "HANDLERS": {
             "description": "enter prefix.",
             "required": true,
-            "value": "^[.,]"
+            "value": "^[.]"
         },
         "SEND_READ": {
             "description": "send read receipt.",
