@@ -1,9 +1,22 @@
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/oOPdAJy.jpeg" width="170" height="170"/>
+
+ </a>
+</p>
+<div align="center">
   <p align="center">
+<img src=https://i.imgur.com/WtbDWXB.jpeg>
+</p>
+  <p align="center">
+<a href="https://github.com/sreyaswa"><img title="Author" src="https://img.shields.io/badge/Author-Amal-sreyaswa/sreyasbot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
 <p align="center">
-<a href="https://github.com/sreyaswa/followers"><img title="Followers" src="https://img.shields.io/github/followers/sreyaswa?color=red&style=flat-circle"></a>
-<a href="https://github.com/sreyaswa/sreyasbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sreyaswa/sreyasbot?color=red&style=flat-square"></a>
+Project created by <a href="https://github.com/sreyaswa">sreyasbot</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
 
 
 CREATED BY FAKE SREYAS OFC
