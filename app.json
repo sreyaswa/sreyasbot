@@ -1,6 +1,7 @@
 {
-    "name": "Bottus",
-    "description": " Whatsapp bot.",
+    "name": "ꪶɪᴛs-ᴍᴇ ͢⁨ғᴀᴋᴇ sʀᴇʏᴀsꫂ»",
+    "description": "FAKE SREYAS OFC BOT",
+    "logo", "https://i.imgur.com/9MzdBSL.jpeg",
     "keywords": [
         "whatsapp",
         "bot"
@@ -18,7 +19,7 @@
         "HANDLERS": {
             "description": "enter prefix.",
             "required": true,
-            "value": "^[.]"
+            "value": "^[.,]"
         },
         "SEND_READ": {
             "description": "send read receipt.",
@@ -79,7 +80,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "ꪶɪᴛs-ᴍᴇ ͢⁨ғᴀᴋᴇ sʀᴇʏᴀsꫂ»"
         }
     },
     "addons": [
