@@ -1,9 +1,14 @@
 {
     "name": "ꪶɪᴛs-ᴍᴇ ͢⁨ғᴀᴋᴇ sʀᴇʏᴀsꫂ»",
-    "description": "DEVELOPED BY FAKE SREYAS OFC",
-    "logo": "https://i.imgur.com/YSlMVkV.jpeg/u/83832372?v=4",
+    "description": "WHATSAP BOT CODED BY FAKE SREYAS OFC.",
+    "logo": "https://i.imgur.com/9MzdBSL.jpeg",
+    "keywords": [
+        "whatsapp",
+        "bot"
+    ],
     "stack": "container",
     "env": {
+
         "ASENA_SESSION": {
             "description": "Enter whatsapp web session.",
             "required": true
